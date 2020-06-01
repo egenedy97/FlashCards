@@ -1,0 +1,22 @@
+{
+  "decks": {
+    "59a11340-9567-11ea-9b42-e15c2c0fb86d": {
+      "id": "59a11340-9567-11ea-9b42-e15c2c0fb86d",
+      "questions": [],
+      "title": "deck0"
+    },
+    "49822ee0-9567-11ea-b583-bdfccf6280a1": {
+      "id": "49822ee0-9567-11ea-b583-bdfccf6280a1",
+      "questions": ["59a16160-9567-11ea-9b42-e15c2c0fb86d"],
+      "title": "deck0"
+    }
+  },
+  "questions": {
+    "59a16160-9567-11ea-9b42-e15c2c0fb86d": {
+      "answer": "ans0",
+      "deckID": "49822ee0-9567-11ea-b583-bdfccf6280a1",
+      "id": "59a16160-9567-11ea-9b42-e15c2c0fb86d",
+      "title": "q0"
+    }
+  }
+}
